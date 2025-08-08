@@ -1,5 +1,6 @@
-LearningDeck
-LearningDeck is a code editor built for programming with AI.
+**LearningDeck**
+
+LearningDeck is a Scalable Offline Exam Platform for the Modern Institution
 
 Creating new posts on the forum for bugs or feature requests is much appreciated 🙂 Feel free to react to the ones you'd like us to prioritize.
 
